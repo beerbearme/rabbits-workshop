@@ -14,7 +14,7 @@ mkdir [name] : 디렉토리를 생성한다.
 * VSCode 설치
   * 홈페이지가서 다운받으면 끝
 * homebrew[^3] 설치
-* git[^3] 설치
+* git 설치
     ```bash
     $ brew install git
     ```
